@@ -105,7 +105,7 @@ To swap placeholders for real client product photos:
 
 ---
 
-## Contact & Enquiry Form Integration
+<!-- ## Contact & Enquiry Form Integration
 
 Forms on `contact.html` and `enquiry.html` feature client-side validation built into `assets/js/form-validation.js`.
 
@@ -128,7 +128,7 @@ To activate GA4 tracking:
 3. Replace `G-XXXXXXXXXX` with your official GA4 Measurement ID
 4. Uncomment the `<script>` tag
 
----
+--- -->
 
 ## Local Development & Testing
 

@@ -1,0 +1,14 @@
+{
+  "name": "HSM Hydro Control Pvt. Ltd.",
+  "short_name": "HSM Hydraulics",
+  "icons": [
+    {
+      "src": "/favicon/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#1a1d23",
+  "background_color": "#1a1d23",
+  "display": "standalone"
+}

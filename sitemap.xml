@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://hsmhcpl.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://hsmhcpl.com/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hsmhcpl.com/services.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hsmhcpl.com/faq.html</loc><priority>0.6</priority></url>
+  <url><loc>https://hsmhcpl.com/contact.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hsmhcpl.com/enquiry.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hsmhcpl.com/testimonials.html</loc><priority>0.5</priority></url>
+  <url><loc>https://hsmhcpl.com/terms-of-service.html</loc><priority>0.3</priority></url>
+  <url><loc>https://hsmhcpl.com/privacy-policy.html</loc><priority>0.3</priority></url>
+
+  <!-- Products -->
+  <url><loc>https://hsmhcpl.com/products/hydraulic-components.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hsmhcpl.com/products/hydraulic-test-bench.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hsmhcpl.com/products/hydraulic-power-unit.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hsmhcpl.com/products/hydraulic-cylinder.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hsmhcpl.com/products/lube-oil-filtration.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hsmhcpl.com/products/hydraulic-manifold-block.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hsmhcpl.com/products/hydraulic-pumps.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hsmhcpl.com/products/hydraulic-motors.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hsmhcpl.com/products/hydraulic-valves.html</loc><priority>0.8</priority></url>
+
+  <!-- Blog -->
+  <url><loc>https://hsmhcpl.com/blog/index.html</loc><priority>0.7</priority></url>
+  <url><loc>https://hsmhcpl.com/blog/hydraulic-system-maintenance-guide.html</loc><priority>0.7</priority></url>
+</urlset>
