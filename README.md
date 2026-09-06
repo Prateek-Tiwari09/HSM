@@ -14,7 +14,7 @@ A modern, responsive, high-performance static website engineered for **HSM Hydro
 
 ---
 
-## Directory Structure
+<!-- ## Directory Structure
 
 ```
 /
@@ -70,11 +70,11 @@ A modern, responsive, high-performance static website engineered for **HSM Hydro
 ├── robots.txt                      # Crawler Control
 ├── sitemap.xml                     # XML Sitemap (21 URLs)
 └── README.md                       # Developer Documentation
-```
+``` -->
 
 ---
 
-## Design System & Theme Customization
+<!-- ## Design System & Theme Customization
 
 All visual variables are centralized in `assets/css/tokens.css`. Modifying colors, typography, or spacing in `tokens.css` automatically updates the entire website.
 
@@ -86,9 +86,9 @@ All visual variables are centralized in `assets/css/tokens.css`. Modifying color
 - `--font-sans`: `'Inter', sans-serif` (Primary typography)
 - `--font-mono`: `'JetBrains Mono', monospace` (Technical specification tables)
 
----
+--- -->
 
-## Image Replacement Guide
+<!-- ## Image Replacement Guide
 
 Product pages currently render **CSS/SVG engineering-style placeholders**.
 
@@ -101,7 +101,7 @@ To swap placeholders for real client product photos:
 <div class="product-visual-wrap">
   <img src="../assets/images/products/test-bench-1.jpg" alt="HSM Hydraulic Test Bench" width="800" height="600" loading="eager">
 </div>
-```
+``` -->
 
 ---
 
